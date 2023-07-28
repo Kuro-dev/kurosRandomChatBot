@@ -25,6 +25,8 @@ public class SessionSearchTask extends CompletableFuture<Optional<Session>> impl
     private static final int RETRY_DELAY = 500;
     private static final Logger logger = LoggerFactory.getLogger(SessionSearchTask.class);
     private final UserId myID;
+    @org.jetbrains.annotations.NotNull
+    private final List<UserId> lfp;
     private final List<Session> sessions;
 
     private int currentAttempt = 0;
@@ -36,6 +38,7 @@ public class SessionSearchTask extends CompletableFuture<Optional<Session>> impl
      */
     public SessionSearchTask(UserId myID, List<UserId> lfp, List<Session> sessions) {
         this.myID = myID;
+        this.lfp = lfp;
         this.sessions = sessions;
         logger.info("{} is currently looking for a partner", myID);
 
@@ -57,7 +60,7 @@ public class SessionSearchTask extends CompletableFuture<Optional<Session>> impl
         currentAttempt++;
         if (currentAttempt >= MAX_ATTEMPTS) {
             logger.info("Failed to find partner for user {}", myID);
-
+            lfp.remove(myID);
             //found no one
             this.complete(Optional.empty());
         }
