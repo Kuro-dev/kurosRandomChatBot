@@ -1,0 +1,159 @@
+2023-07-28 18:45:01 INFO  SessionSearchTask:43 - 1 is currently looking for a partner
+2023-07-28 18:45:01 INFO  SessionSearchTask:39 - 2 found partner 1
+2023-07-28 18:45:16 INFO  SessionSearchTask:54 - Failed to find partner for user 1
+2023-07-28 18:46:44 INFO  SessionSearchTask:43 - 1 is currently looking for a partner
+2023-07-28 18:46:44 INFO  SessionSearchTask:39 - 2 found partner 1
+2023-07-28 18:47:46 INFO  SessionSearchTask:43 - 1 is currently looking for a partner
+2023-07-28 18:47:46 INFO  SessionSearchTask:39 - 2 found partner 1
+2023-07-28 18:47:46 INFO  SessionSearchTask:61 - 1 found partner 2
+2023-07-28 18:49:02 INFO  SessionSearchTask:36 - 1 is currently looking for a partner
+2023-07-28 18:49:02 INFO  SessionSearchTask:36 - 2 is currently looking for a partner
+2023-07-28 18:49:02 INFO  SessionSearchTask:40 - 2 found partner 1
+2023-07-28 18:49:03 INFO  SessionSearchTask:61 - 1 found partner 2
+2023-07-28 19:09:17 INFO  SessionSearchTask:40 - UserId{id=1} is currently looking for a partner
+2023-07-28 19:09:17 INFO  SessionSearchTask:40 - UserId{id=2} is currently looking for a partner
+2023-07-28 19:09:17 INFO  SessionSearchTask:44 - UserId{id=2} found partner UserId{id=1}
+2023-07-28 19:09:18 INFO  SessionSearchTask:66 - UserId{id=1} found partner UserId{id=2}
+2023-07-28 19:09:32 INFO  SessionSearchTask:40 - 1 is currently looking for a partner
+2023-07-28 19:09:32 INFO  SessionSearchTask:40 - 2 is currently looking for a partner
+2023-07-28 19:09:32 INFO  SessionSearchTask:44 - 2 found partner 1
+2023-07-28 19:09:32 INFO  SessionSearchTask:66 - 1 found partner 2
+2023-07-28 20:40:01 INFO  DiscordBot:39 - starting bot
+2023-07-28 20:40:33 INFO  DiscordBot:39 - starting bot
+2023-07-28 20:40:49 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:40:49 INFO  JDA:332 - Login Successful!
+2023-07-28 20:40:50 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:40:50 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:40:50 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:41:16 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:41:27 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:41:27 INFO  SessionSearchTask:44 - 223878679061725185 found partner 830479096449335316
+2023-07-28 20:41:27 INFO  SessionSearchTask:66 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:44:30 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:44:31 INFO  JDA:332 - Login Successful!
+2023-07-28 20:44:31 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:44:31 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:44:31 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:44:34 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:44:36 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:44:36 INFO  SessionSearchTask:44 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:44:37 INFO  SessionSearchTask:66 - 223878679061725185 found partner 830479096449335316
+2023-07-28 20:45:12 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:45:13 INFO  JDA:332 - Login Successful!
+2023-07-28 20:45:13 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:45:13 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:45:13 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:45:51 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:45:52 INFO  JDA:332 - Login Successful!
+2023-07-28 20:45:52 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:45:52 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:45:52 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:45:53 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:45:57 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:45:57 INFO  SessionSearchTask:44 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:45:57 INFO  SessionSearchTask:66 - 223878679061725185 found partner 830479096449335316
+2023-07-28 20:47:28 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:47:28 INFO  JDA:332 - Login Successful!
+2023-07-28 20:47:29 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:47:29 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:47:29 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:47:32 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:47:34 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:47:34 INFO  SessionSearchTask:44 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:47:35 INFO  SessionSearchTask:66 - 223878679061725185 found partner 830479096449335316
+2023-07-28 20:50:32 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:50:33 INFO  JDA:332 - Login Successful!
+2023-07-28 20:50:33 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:50:34 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:50:34 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:50:37 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:50:37 INFO  JDA:332 - Login Successful!
+2023-07-28 20:50:38 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:50:38 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:50:38 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:50:40 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:50:43 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:50:43 INFO  SessionSearchTask:44 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:50:43 INFO  SessionSearchTask:66 - 223878679061725185 found partner 830479096449335316
+2023-07-28 20:55:34 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:55:35 INFO  JDA:332 - Login Successful!
+2023-07-28 20:55:35 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:55:35 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:55:35 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:55:38 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:55:41 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:55:41 INFO  SessionSearchTask:44 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:55:41 INFO  SessionSearchTask:66 - 223878679061725185 found partner 830479096449335316
+2023-07-28 20:56:48 INFO  RandomChatServer:49 - Removing session --- SUCCESS
+2023-07-28 20:58:03 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:58:04 INFO  JDA:332 - Login Successful!
+2023-07-28 20:58:04 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:58:04 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:58:04 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:58:08 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:58:11 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:58:11 INFO  SessionSearchTask:44 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:58:11 INFO  SessionSearchTask:66 - 223878679061725185 found partner 830479096449335316
+2023-07-28 20:58:48 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:58:49 INFO  JDA:332 - Login Successful!
+2023-07-28 20:58:49 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:58:49 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:58:49 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:58:50 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:58:52 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:58:52 INFO  SessionSearchTask:44 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:58:52 INFO  SessionSearchTask:66 - 223878679061725185 found partner 830479096449335316
+2023-07-28 20:59:09 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:59:09 INFO  SessionSearchTask:66 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:59:09 INFO  RandomChatServer:52 - Removing session --- SUCCESS
+2023-07-28 20:59:12 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:59:12 INFO  SessionSearchTask:44 - 223878679061725185 found partner 830479096449335316
+2023-07-28 20:59:12 INFO  RandomChatServer:52 - Removing session --- SUCCESS
+2023-07-28 20:59:19 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:59:20 INFO  JDA:332 - Login Successful!
+2023-07-28 20:59:20 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:59:20 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:59:20 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:59:21 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:59:22 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:59:22 INFO  SessionSearchTask:44 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:59:22 INFO  SessionSearchTask:66 - 223878679061725185 found partner 830479096449335316
+2023-07-28 20:59:38 INFO  DiscordBot:41 - starting bot
+2023-07-28 20:59:39 INFO  JDA:332 - Login Successful!
+2023-07-28 20:59:39 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 20:59:39 INFO  JDA:211 - Finished Loading!
+2023-07-28 20:59:39 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 20:59:42 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 20:59:45 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 20:59:45 INFO  SessionSearchTask:44 - 830479096449335316 found partner 223878679061725185
+2023-07-28 20:59:45 INFO  SessionSearchTask:66 - 223878679061725185 found partner 830479096449335316
+2023-07-28 21:00:27 INFO  DiscordBot:41 - starting bot
+2023-07-28 21:00:28 INFO  JDA:332 - Login Successful!
+2023-07-28 21:00:28 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 21:00:28 INFO  JDA:211 - Finished Loading!
+2023-07-28 21:00:28 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 21:00:30 INFO  SessionSearchTask:40 - 830479096449335316 is currently looking for a partner
+2023-07-28 21:00:35 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 21:00:35 INFO  SessionSearchTask:44 - 223878679061725185 found partner 830479096449335316
+2023-07-28 21:00:36 INFO  SessionSearchTask:66 - 830479096449335316 found partner 223878679061725185
+2023-07-28 21:23:52 INFO  DiscordBot:41 - starting bot
+2023-07-28 21:23:52 INFO  JDA:332 - Login Successful!
+2023-07-28 21:23:53 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 21:23:53 INFO  JDA:211 - Finished Loading!
+2023-07-28 21:23:53 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 21:24:20 INFO  TelegramChatBot:27 - Starting Telegram bot
+2023-07-28 21:24:20 INFO  DiscordBot:41 - starting bot
+2023-07-28 21:24:20 INFO  JDA:332 - Login Successful!
+2023-07-28 21:24:20 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 21:24:21 INFO  JDA:211 - Finished Loading!
+2023-07-28 21:24:21 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 21:25:22 INFO  DiscordBot:41 - starting bot
+2023-07-28 21:25:22 INFO  TelegramChatBot:27 - Starting Telegram bot (RandomChatBot)
+2023-07-28 21:25:22 INFO  JDA:332 - Login Successful!
+2023-07-28 21:25:23 INFO  WebSocketClient:431 - Connected to WebSocket
+2023-07-28 21:25:23 INFO  JDA:211 - Finished Loading!
+2023-07-28 21:25:23 INFO  DiscordBot:29 - Discord bot successfully started
+2023-07-28 21:25:43 INFO  SessionSearchTask:40 - 6482993876 is currently looking for a partner
+2023-07-28 21:25:48 INFO  SessionSearchTask:40 - 223878679061725185 is currently looking for a partner
+2023-07-28 21:25:48 INFO  SessionSearchTask:44 - 223878679061725185 found partner 6482993876
+2023-07-28 21:25:48 INFO  SessionSearchTask:66 - 6482993876 found partner 223878679061725185
