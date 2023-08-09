@@ -8,7 +8,7 @@
 
 ## For self hosting people:
 
-Create a setting.ini file in root directory
+Create a settings.ini file in root directory
 
 ```ini
 [discord]
